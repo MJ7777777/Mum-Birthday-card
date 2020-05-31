@@ -16,7 +16,7 @@
 #outside-title {
   color: White;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 14pt;
   text-align: center;
 }
 
@@ -28,7 +28,7 @@
 #outside-help {
   color: black;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 14pt;
   text-align: center;
   padding: 20px;
 }
@@ -45,7 +45,7 @@
 #inside-title {
   color: white;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 14pt;
   text-align: center;
 }
 
